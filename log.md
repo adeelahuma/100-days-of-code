@@ -15,3 +15,11 @@
 **Thoughts:**  I realized python's built-in methods for string does not use camel notion for method name. Maybe this is with other methods as well. Seems strange coming from Java background. oh well, its Python !!
 
 **Link to work:**  [Day-2](https://github.com/adeelahuma/100-days-of-code/blob/master/code/Day_2.ipynb)
+
+### Day 3: September 13, 2018 
+
+**Today's Progress**:  Read about lists, list comprehension expressions. There was a small topic left for string, i copied it to Day-2 notebook for notes purposes 
+
+**Thoughts:** I really liked list comprehension expressions, pretty great feature
+
+**Link to work:**  [Day-3](https://github.com/adeelahuma/100-days-of-code/blob/master/code/Day_3.ipynb)
