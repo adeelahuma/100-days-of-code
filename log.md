@@ -26,8 +26,8 @@
 
 ### Day 4: September 14, 2018 
 
-**Today's Progress**:  Read about dictionaries 
+**Today's Progress**:  Read about dictionary core data type. 
 
-**Thoughts:** 
+**Thoughts:** Come to know that python also has garbage collector just like Java. Iterators concept seems same as in Java. Will read about both of them future chapters. 
 
 **Link to work:**  [Day-4](https://github.com/adeelahuma/100-days-of-code/blob/master/code/Day_4.ipynb)
