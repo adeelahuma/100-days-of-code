@@ -23,3 +23,11 @@
 **Thoughts:** I really liked list comprehension expressions, pretty great feature
 
 **Link to work:**  [Day-3](https://github.com/adeelahuma/100-days-of-code/blob/master/code/Day_3.ipynb)
+
+### Day 4: September 14, 2018 
+
+**Today's Progress**:  Read about dictionaries 
+
+**Thoughts:** 
+
+**Link to work:**  [Day-4](https://github.com/adeelahuma/100-days-of-code/blob/master/code/Day_4.ipynb)
