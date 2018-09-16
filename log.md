@@ -31,3 +31,11 @@
 **Thoughts:** Come to know that python also has garbage collector just like Java. Iterators concept seems same as in Java. Will read about both of them future chapters. 
 
 **Link to work:**  [Day-4](https://github.com/adeelahuma/100-days-of-code/blob/master/code/Day_4.ipynb)
+
+### Day 5: September 15, 2018 
+
+**Today's Progress**:  Read about Tuples, Files core data types. 
+
+**Thoughts:** I had to push through today, was tired so didn't do much :(  
+
+**Link to work:**  [Day-5](https://github.com/adeelahuma/100-days-of-code/blob/master/code/Day_5.ipynb)
