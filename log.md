@@ -39,3 +39,11 @@
 **Thoughts:** I had to push through today, was tired so didn't do much :(  
 
 **Link to work:**  [Day-5](https://github.com/adeelahuma/100-days-of-code/blob/master/code/Day_5.ipynb)
+
+### Day 6: September 16, 2018 
+
+**Today's Progress**:  setup environemnt for python3, switched gears towards refresher of data science 
+
+**Thoughts:** no thoughts today  
+
+**Link to work:**  
