@@ -46,4 +46,12 @@
 
 **Thoughts:** no thoughts today  
 
-**Link to work:**  
+**Link to work:**
+
+### Day 7: September 17, 2018 
+
+**Today's Progress**:  finished chapter 4 and 6
+
+**Thoughts:** Pretty good read today. Come to know about dynamic typing in python and why we don't declare variables types in python.   
+
+**Link to work:**  [Day-7](https://github.com/adeelahuma/100-days-of-code/blob/master/code/Day_7.ipynb) 
