@@ -55,3 +55,11 @@
 **Thoughts:** Pretty good read today. Come to know about dynamic typing in python and why we don't declare variables types in python.   
 
 **Link to work:**  [Day-7](https://github.com/adeelahuma/100-days-of-code/blob/master/code/Day_7.ipynb) 
+
+### Day 8: September 18, 2018 
+
+**Today's Progress**:  finished chapter 16 about functions
+
+**Thoughts:** very basic chapter, covered how functions in python are different than in compiled languages, covered a bit polymorphism etc.   
+
+**Link to work:**  [Day-8](https://github.com/adeelahuma/100-days-of-code/blob/master/code/Day_8.ipynb) 
