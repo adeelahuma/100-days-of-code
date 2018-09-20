@@ -63,3 +63,11 @@
 **Thoughts:** very basic chapter, covered how functions in python are different than in compiled languages, covered a bit polymorphism etc.   
 
 **Link to work:**  [Day-8](https://github.com/adeelahuma/100-days-of-code/blob/master/code/Day_8.ipynb) 
+
+### Day 9: September 19, 2018 
+
+**Today's Progress**:  started chapter 22 about python modules
+
+**Thoughts:** 
+
+**Link to work:** 
