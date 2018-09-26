@@ -79,3 +79,11 @@
 **Thoughts:** Even though i didn't log couple of days but i did read stuff if that counts :) 
 
 **Link to work:** [NumPy Basics](https://github.com/adeelahuma/100-days-of-code/blob/master/code/numpy_basics.ipynb)
+
+### Day 11: September 25, 2018 
+
+**Today's Progress**:  NumPy Basics continued
+
+**Thoughts:** good stuff going on :)
+
+**Link to work:** [NumPy Basics Part-2](https://github.com/adeelahuma/100-days-of-code/blob/master/code/numpy_basics_part2.ipynb)
