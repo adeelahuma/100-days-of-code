@@ -87,3 +87,13 @@
 **Thoughts:** good stuff going on :)
 
 **Link to work:** [NumPy Basics Part-2](https://github.com/adeelahuma/100-days-of-code/blob/master/code/numpy_basics_part2.ipynb)
+
+### Day 12: September 26, 2018 
+
+**Today's Progress**:  NumPy Basics continued and started solving python practice exercises
+
+**Thoughts:** Its fun ....
+
+**Link to work:** 
+    [NumPy Basics Part-3](https://github.com/adeelahuma/100-days-of-code/blob/master/code/numpy_basics_part3.ipynb)
+    [Character Input exercise](https://github.com/adeelahuma/100-days-of-code/blob/master/code/practice/char_input.py)
