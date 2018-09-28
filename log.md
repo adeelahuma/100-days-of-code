@@ -95,5 +95,15 @@
 **Thoughts:** Its fun ....
 
 **Link to work:** 
-    [NumPy Basics Part-3](https://github.com/adeelahuma/100-days-of-code/blob/master/code/numpy_basics_part3.ipynb)
+    [NumPy Basics Part-3](https://github.com/adeelahuma/100-days-of-code/blob/master/code/numpy_basics_part3.ipynb) , 
     [Character Input exercise](https://github.com/adeelahuma/100-days-of-code/blob/master/code/practice/char_input.py)
+    
+### Day 13: September 27, 2018 
+
+**Today's Progress**: solved two python practice exercises
+
+**Thoughts:** could not spend much time today
+
+**Link to work:** 
+    [Odd or even exercise](https://github.com/adeelahuma/100-days-of-code/blob/master/code/practice/list_less_than_10.py), 
+    [List Less than 10 exercise](https://github.com/adeelahuma/100-days-of-code/blob/master/code/practice/odd_or_even.py)     
