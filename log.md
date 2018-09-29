@@ -107,3 +107,19 @@
 **Link to work:** 
     [Odd or even exercise](https://github.com/adeelahuma/100-days-of-code/blob/master/code/practice/list_less_than_10.py), 
     [List Less than 10 exercise](https://github.com/adeelahuma/100-days-of-code/blob/master/code/practice/odd_or_even.py)     
+
+### Day 14: September 28, 2018 
+
+**Today's Progress**: solved a few python practice exercises
+
+**Thoughts:** Today learned a few tricks in python such as using logical and (&) to do intersection of set to find common elements in a set,
+sample function from 'random' library, string reversal by slicing using negative index, 
+clever use of dictionary in rock paper scissor exercise.   
+
+**Link to work:** 
+    [Divisor of a number exercise](https://github.com/adeelahuma/100-days-of-code/commit/92db223ffae26204336a15a5f4026f6a345ffb3b), 
+    [Common Numbers in a list](https://github.com/adeelahuma/100-days-of-code/commit/114bdcdddc10baeac96d31c93942580a99d8ae6d), 
+    [Palindrome](https://github.com/adeelahuma/100-days-of-code/commit/366355475efc869c4d5d148edda6ad24089920ac), 
+    [List Comprehension](https://github.com/adeelahuma/100-days-of-code/commit/eede13f5da8cb883599d16268e2c3cb92c8e8b9c),
+    [Rock paper scissor game](https://github.com/adeelahuma/100-days-of-code/commit/d096d1182091fbc1c6c269a9a2349c9ab5354100) 
+        
