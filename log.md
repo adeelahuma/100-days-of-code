@@ -123,3 +123,11 @@ clever use of dictionary in rock paper scissor exercise.
     [List Comprehension](https://github.com/adeelahuma/100-days-of-code/commit/eede13f5da8cb883599d16268e2c3cb92c8e8b9c),
     [Rock paper scissor game](https://github.com/adeelahuma/100-days-of-code/commit/d096d1182091fbc1c6c269a9a2349c9ab5354100) 
         
+### Day 15: September 29, 2018 
+
+**Today's Progress**: pandas basics overview
+
+**Thoughts:** N/A  
+
+**Link to work:** 
+    [Panda's basics](https://github.com/adeelahuma/100-days-of-code/blob/master/code/pandas_basics.ipynb)
