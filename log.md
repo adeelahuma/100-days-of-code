@@ -131,3 +131,13 @@ clever use of dictionary in rock paper scissor exercise.
 
 **Link to work:** 
     [Panda's basics](https://github.com/adeelahuma/100-days-of-code/blob/master/code/pandas_basics.ipynb)
+    
+### Day 16: October 04, 2018 
+
+**Today's Progress**: Practice exercise , [Python's with statement](http://effbot.org/zone/python-with-statement.htm), 
+one hot encoding, also read/practiced code about recommendation systems
+
+**Thoughts:** N/A  
+
+**Link to work:** 
+    [Prime number](https://github.com/adeelahuma/100-days-of-code/blob/master/code/practice/func_practice.py)    
