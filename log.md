@@ -141,3 +141,12 @@ one hot encoding, also read/practiced code about recommendation systems
 
 **Link to work:** 
     [Prime number](https://github.com/adeelahuma/100-days-of-code/blob/master/code/practice/func_practice.py)    
+    
+### Day 17: October 10, 2018 
+
+**Today's Progress**: Probability exercise
+
+**Thoughts:** N/A  
+
+**Link to work:** 
+    [Probability](https://github.com/adeelahuma/100-days-of-code/blob/master/code/probability_coin_flip_simulation.ipynb)      
